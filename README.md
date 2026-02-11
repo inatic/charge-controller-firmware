@@ -1,11 +1,3 @@
-+++
-date = '2026-01-26T19:23:34+01:00'
-draft = true
-title = 'Solar Charge Controller Firmware'
-math = true
-categories = ["Solar", "DIY"]
-+++
-
 This document provides a comprehensive guide to the firmware for the FUGU-MPPT, a 1-kilowatt Maximum Power Point Tracking (MPPT) solar charge controller. It is intended for electronics enthusiasts, students, and DIYers who want to understand, build, and customize their own high-efficiency solar charge controller. This project is based on the original MPPT solar charge controller project by [AngeloCasi](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE).
 
 # Original Project
